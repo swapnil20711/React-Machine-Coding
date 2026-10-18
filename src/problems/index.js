@@ -3,4 +3,5 @@ export const problems = [
   { slug: "autocomplete", title: "Autocomplete Search Bar" },
   { slug: "pagination", title: "Pagination" },
   { slug: "tab-form", title: "Tab Form" },
+  { slug: "otp-component", title: "OTP component" },
 ];
