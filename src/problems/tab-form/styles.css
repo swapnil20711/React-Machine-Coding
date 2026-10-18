@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.heading-container {
+  display: flex;
+  flex-direction: row;
+  /* gap: 4px; */
+}
+
+.heading {
+  border: 1px solid black;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.heading-selected {
+  border: 1px solid black;
+  padding: 5px;
+  background-color: red;
+}
+
+.tab-body {
+  border: 1px solid black;
+  height: 300px;
+  padding: 5px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.profile-tab {
+  display: flex;
+  flex-direction: column;
+}
+
+.field-container {
+  margin-top: 4px;
+  display: flex;
+}
+
+.error {
+  margin-left: 4px;
+  color: red;
+  font-size: 12px;
+  justify-content: flex-start;
+  display: flex;
+}

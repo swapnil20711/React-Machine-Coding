@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.search-input{
+  width: 500px;
+  padding: 4px;
+}
+
+.result-container{
+  /* flex-direction: column; */
+  /* display: flex; */
+  width: 500px;
+  padding: 4px;
+  margin: auto;
+  border: 1px solid black;
+  text-align: left;
+  max-height: 500px;
+  /* overflow: auto; */
+  overflow-y: scroll;
+}
+
+.result{
+  display: block;
+  padding: 4px;
+}
+
+.result:hover{
+  cursor: pointer;
+  background-color: aliceblue;
+}
