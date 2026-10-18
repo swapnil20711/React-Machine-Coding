@@ -6,7 +6,7 @@ import Settings from "./Settings"
 export default function TabForm() {
     const [selectedTab, setSelectedTab] = useState(0);
     const [data, setData] = useState({ name: "Swapnil", age: "25", email: "swapnil.bhojwani@gmail.com", interests: ["coding", "javascript"], theme: "dark" })
-    const [errors, setErrors] = useState({ name: "Name is invalid" });
+    const [errors, setErrors] = useState({ name: "" });
 
     const TABS = [
         {
