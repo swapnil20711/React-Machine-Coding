@@ -4,4 +4,5 @@ export const problems = [
   { slug: "pagination", title: "Pagination" },
   { slug: "tab-form", title: "Tab Form" },
   { slug: "otp-component", title: "OTP component" },
+  { slug: "nested-checkboxes", title: "Nested Checkboxes" },
 ];
