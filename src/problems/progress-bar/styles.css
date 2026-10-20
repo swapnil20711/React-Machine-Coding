@@ -1,0 +1,14 @@
+.outer{
+    border: 1px solid black;
+    border-radius: 10px;
+    overflow: auto;
+    margin: 10px;
+}
+
+.inner{
+    background-color: green;
+    text-align: right;
+    color: white;
+    padding: 1px;
+    transition: 1.5s ease-in;
+}
