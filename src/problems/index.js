@@ -6,4 +6,5 @@ export const problems = [
   { slug: "otp-component", title: "OTP component" },
   { slug: "nested-checkboxes", title: "Nested Checkboxes" },
   { slug: "progress-bar", title: "Progress Bar" },
+  { slug: "file-folder-explorer", title: "File Folder Explorer" },
 ];
