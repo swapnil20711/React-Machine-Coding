@@ -7,6 +7,11 @@ Practice repo for React machine-coding round questions, built with Next.js (App 
 | Autocomplete Search Bar | `/autocomplete` | `src/problems/autocomplete` |
 | Pagination | `/pagination` | `src/problems/pagination` |
 | Tab Form | `/tab-form` | `src/problems/tab-form` |
+| OTP Component | `/otp-component` | `src/problems/otp` |
+| Nested Checkboxes | `/nested-checkboxes` | `src/problems/nested-checkboxes` |
+| Progress Bar | `/progress-bar` | `src/problems/progress-bar` |
+| File Folder Explorer | `/file-folder-explorer` | `src/problems/file-folder-explorer` |
+| Chips Input | `/chips-input` | `src/problems/chips-input` |
 
 ## Run
 
