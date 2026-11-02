@@ -6,7 +6,7 @@ export default function App() {
   const [inputText, setInputText] = useState("");
   const [chips, setChips] = useState(["dummy", "chips"]);
   const handleKeyDown = (e) => {
-    if (e.key === "Enter") {
+    if (e.key === "Enter" && inputText.trim()!=="") {
       setChips((prev) => ([...prev, inputText.trim()]));
       setInputText("")
     }
