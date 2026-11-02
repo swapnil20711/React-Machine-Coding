@@ -7,4 +7,5 @@ export const problems = [
   { slug: "nested-checkboxes", title: "Nested Checkboxes" },
   { slug: "progress-bar", title: "Progress Bar" },
   { slug: "file-folder-explorer", title: "File Folder Explorer" },
+  { slug: "chips-input", title: "Chips Input" },
 ];
